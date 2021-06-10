@@ -36,8 +36,14 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #777; }
-  
+  color: #777; 
+  overflow-x: hidden;
+ 
+ 
+}
+::-webkit-scrollbar{
+  scrollbar-width: thin;
+}
 
 * {
   margin: 0;
