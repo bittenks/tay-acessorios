@@ -1001,8 +1001,12 @@ p {
     height: 68%; }
   @media (max-width: 767px) {
     .testimonial-area {
-      padding-top: 100px; } }
-
+      padding-top: 100px; } 
+      .testimonial-bg{
+        background: center;
+        background-size: contain;
+      }
+    }
 .testimonial-content {
   background-color: rgba(101, 254, 195, 0.726); }
 
