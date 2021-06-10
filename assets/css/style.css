@@ -37,6 +37,7 @@ body {
   font-weight: normal;
   font-style: normal;
   color: #777; }
+  
 
 * {
   margin: 0;
@@ -1003,7 +1004,7 @@ p {
       padding-top: 100px; } }
 
 .testimonial-content {
-  background-color: rgba(254, 119, 101, 0.726); }
+  background-color: rgba(101, 254, 195, 0.726); }
 
 .single-testimonial {
   padding: 40px 25px 50px; }
@@ -1012,7 +1013,7 @@ p {
     color: #fff; }
   .single-testimonial p {
     font-size: 29px;
-    color: #fff;
+    color: rgba(0, 0, 0, 0.658);
     font-weight: 500;
     font-style: italic;
     line-height: 48px; }
