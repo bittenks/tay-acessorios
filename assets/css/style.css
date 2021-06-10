@@ -41,6 +41,11 @@ body {
  
  
 }
+@media (max-width: 767px) {
+ body{
+   overflow-x: hidden;
+ }
+}
 ::-webkit-scrollbar{
   scrollbar-width: thin;
 }
