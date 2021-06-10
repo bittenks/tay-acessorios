@@ -1014,6 +1014,7 @@ p {
     .testimonial-area {
       padding-top: 100px; } 
       .testimonial-bg{
+        background:no-repeat;
         background: center;
         background-size: contain;
       }
