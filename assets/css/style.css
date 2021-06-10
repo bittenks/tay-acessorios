@@ -1014,13 +1014,16 @@ p {
     .testimonial-area {
       padding-top: 100px; } 
       .testimonial-bg{
-        background:no-repeat;
-        background: center;
+      
+     
         background-size: contain;
       }
     }
 .testimonial-content {
-  background-color: rgba(101, 254, 195, 0.726); }
+  background-color: rgba(101, 254, 195, 0.726);
+  background-size: contain;
+}
+  
 
 .single-testimonial {
   padding: 40px 25px 50px; }
